@@ -1,0 +1,14 @@
+[package]
+name = "simple_line"
+version = "0.1.0"
+authors = ["knknkn1162 <knknkn1162@gmail.com>"]
+
+[dependencies]
+futures = "*"
+tokio-io = "*"
+tokio-core = "*"
+tokio-proto = "*"
+tokio-service = "*"
+bytes = "*"
+log = "*"
+env_logger = "*"
